@@ -10,7 +10,7 @@ buttonOne.addEventListener('click', function() {
     // 1. Select the placeholder and update the src.
     // - The image address should be a picture of a place you want to travel to.
     // - Use Google Search, find a photo you want, right-click, and copy the image address.
-
+    placeholder.src = "https://fakeimg.pl/600x400";
 
 
 
@@ -24,7 +24,7 @@ buttonTwo.addEventListener('click', function() {
     // - The image address should be a picture that represents your mood.
     // - Use Google Search, find a photo you want, right-click, and copy the image address.
 
-
+    placeholder.src = "https://fakeimg.pl/200x100";
 
     
 
